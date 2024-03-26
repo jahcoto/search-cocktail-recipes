@@ -1,8 +1,7 @@
-import Header from '../components/Header';
 const indexView = () => {
   return (
     <>
-      <Header />
+      <h1>Inicio</h1>
     </>
   );
 };
